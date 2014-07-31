@@ -55,7 +55,7 @@ v0.31		7/24/14
 	v0.31b
 	-Minor code gimmick changes
 
-v0.4		7/30/14
+v0.4		7/28/14
 
 	-Added primary exception handling
 	-Added "Report an Error" window
@@ -68,4 +68,9 @@ v0.4		7/30/14
 	-Moved "Ramsey Calculator" to Tool Menu
 	-Improved spacing issues when loading data
 	-Finished Report an Error dialog
+
+v1.0		7/31/14
+
+	-Changed name to "RINO"
+	-Initial Release
 ```
